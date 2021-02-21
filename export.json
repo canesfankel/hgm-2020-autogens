@@ -12,25 +12,25 @@
       "stadiumCapacity": 17174,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810647820356026398/1200px-Anaheim_Ducks.png",
       "colors": [
-        "#F47A38",
-        "#B9975B",
-        "#000000"
+        "#000000",
+        "#000000",
+        "#F47A38"
       ]
     },
     {
       "tid": 1,
       "cid": 1,
-      "did": 3,
+      "did": 2,
       "region": "Arizona",
       "name": "Coyotes",
       "abbrev": "ARI",
-      "pop": 0.2,
+      "pop": 4.8,
       "stadiumCapacity": 17125,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810647881123627038/1200px-Arizona_Coyotes.png",
       "colors": [
-        "#8C2633",
-        "#8C2633",
-        "#E2D6B5"
+        "#154734",
+        "#000000",
+        "#8C2633"
       ]
     },
     {
@@ -39,14 +39,14 @@
       "did": 0,
       "region": "Boston",
       "name": "Bruins",
-      "abbrev": "BO",
+      "abbrev": "BOS",
       "pop": 7.3,
       "stadiumCapacity": 17850,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png",
       "colors": [
-        "#FFB81C",
         "#000000",
-        "#FFB81C"
+        "#FFB81C",
+        "#FFFFFF"
       ]
     },
     {
@@ -56,13 +56,13 @@
       "region": "Buffalo",
       "name": "Sabres",
       "abbrev": "BUF",
-      "pop": 0.2,
+      "pop": 1.1,
       "stadiumCapacity": 19070,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649719398334494/1200px-Buffalo_Sabres_Logo.png",
       "colors": [
+        "#FFFFFF",
         "#002654",
-        "#FCB514",
-        "#002654"
+        "#FCB514"
       ]
     },
     {
@@ -77,8 +77,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649768111243304/1200px-Calgary_Flames_logo.png",
       "colors": [
         "#C8102E",
-        "#F1BE48",
-        "#C8102E"
+        "#C8102E",
+        "#F1BE48"
       ]
     },
     {
@@ -88,12 +88,12 @@
       "region": "Carolina",
       "name": "Hurricanes",
       "abbrev": "CAR",
-      "pop": 0.4,
+      "pop": 1,
       "stadiumCapacity": 18680,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649820376334366/1200px-Carolina_Hurricanes.png",
       "colors": [
         "#CC0000",
-        "#000000",
+        "#CC0000",
         "#CC0000"
       ]
     },
@@ -124,9 +124,9 @@
       "stadiumCapacity": 18007,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650022811140127/1024px-Colorado_Avalanche_logo.png",
       "colors": [
+        "#FFFFFF",
         "#6F263D",
-        "#236192",
-        "#A2AAAD"
+        "#236192"
       ]
     },
     {
@@ -141,7 +141,7 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650134400073768/1200px-Columbus_Blue_Jackets_logo.png",
       "colors": [
         "#002654",
-        "#CE1126",
+        "#002654",
         "#A4A9AD"
       ]
     },
@@ -157,7 +157,7 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650205598515230/1200px-Dallas_Stars_logo_28201329.png",
       "colors": [
         "#006847",
-        "#000000",
+        "#006847",
         "#FFFFFF"
       ]
     },
@@ -173,7 +173,7 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650255959392306/1200px-Detroit_Red_Wings_logo.png",
       "colors": [
         "#CE1126",
-        "#FFFFFF",
+        "#CE1126",
         "#CE1126"
       ]
     },
@@ -188,8 +188,8 @@
       "stadiumCapacity": 18347,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650299144208434/1200px-Logo_Edmonton_Oilers.png",
       "colors": [
-        "#041E42",
         "#FF4C00",
+        "#041E42",
         "#FFFFFF"
       ]
     },
@@ -204,9 +204,9 @@
       "stadiumCapacity": 19250,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650356685602846/1200px-Florida_Panthers_2016_logo.png",
       "colors": [
-        "#041E42",
         "#C8102E",
-        "#B9975B"
+        "#C8102E",
+        "#C8102E"
       ]
     },
     {
@@ -222,7 +222,7 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650402273230878/1200px-Los_Angeles_Kings_logo.png",
       "colors": [
         "#212121",
-        "#FFFFFF",
+        "#212121",
         "#FFFFFF"
       ]
     },
@@ -238,8 +238,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650455637098516/1200px-Minnesota_Wild.png",
       "colors": [
         "#154734",
-        "#A6192E",
-        "#DDCBA4"
+        "#154734",
+        "#A6192E"
       ]
     },
     {
@@ -253,9 +253,9 @@
       "stadiumCapacity": 21302,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
       "colors": [
-        "#AF1E2D",
         "#FFFFFF",
-        "#192168"
+        "#AF1E2D",
+        "#FFFFFF"
       ]
     },
     {
@@ -269,8 +269,8 @@
       "stadiumCapacity": 17113,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650566740672522/1200px-Nashville_Predators_Logo_28201129.png",
       "colors": [
-        "#FFB81C",
         "#FFFFFF",
+        "#FFB81C",
         "#030144"
       ]
     },
@@ -302,7 +302,7 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651376890675250/1200px-Logo_New_York_Islanders.png",
       "colors": [
         "#003087",
-        "#FFFFFF",
+        "#003087",
         "#fc4c02"
       ]
     },
@@ -318,8 +318,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png",
       "colors": [
         "#0038A8",
-        "#FFFFFF",
-        "#CE1126"
+        "#0038A8",
+        "#0038A8"
       ]
     },
     {
@@ -333,9 +333,9 @@
       "stadiumCapacity": 18652,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651677094838322/1200px-Ottawa_Senators_2020-2021_logo.png",
       "colors": [
-        "#C52032",
-        "#000000",
-        "#C2912C"
+        "#FFFFFF",
+        "#FFFFFF",
+        "#C52032"
       ]
     },
     {
@@ -351,7 +351,7 @@
       "colors": [
         "#F74902",
         "#FFFFFF",
-        "#000000"
+        "#F74902"
       ]
     },
     {
@@ -366,8 +366,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652579050291200/1200px-Pittsburgh_Penguins_logo_28201629.png",
       "colors": [
         "#231F20",
-        "#FCB514",
-        "#FFFFFF"
+        "#231F20",
+        "#FCB514"
       ]
     },
     {
@@ -381,13 +381,29 @@
       "stadiumCapacity": 17562,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652638081187890/1200px-SanJoseSharksLogo.png",
       "colors": [
-        "#006D75",
-        "#006D75",
+        "#FFFFFF",
+        "#FFFFFF",
         "#006D75"
       ]
     },
     {
       "tid": 24,
+      "cid": 1,
+      "did": 3,
+      "region": "Seattle",
+      "name": "Kraken",
+      "abbrev": "SEA",
+      "pop": 3.9,
+      "stadiumCapacity": 17110,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654506894360586/220px-Seattle_Kraken_official_logo.png",
+      "colors": [
+        "#001628",
+        "#001628",
+        "#99D9D9"
+      ]
+    },
+    {
+      "tid": 25,
       "cid": 1,
       "did": 2,
       "region": "St. Louis",
@@ -398,12 +414,12 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652697837568010/1200px-St.png",
       "colors": [
         "#002F87",
-        "#FCB514",
-        "#FFFFFF"
+        "#041E42",
+        "#FCB514"
       ]
     },
     {
-      "tid": 25,
+      "tid": 26,
       "cid": 0,
       "did": 0,
       "region": "Tampa Bay",
@@ -414,7 +430,7 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810653973542862858/image_1.png",
       "colors": [
         "#002868",
-        "#FFFFFF",
+        "#002868",
         "#FFFFFF"
       ]
     },
@@ -429,13 +445,13 @@
       "stadiumCapacity": 18819,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png",
       "colors": [
-        "#00205B",
-        "#00205B",
-        "#FFFFFF"
+        "#002366",
+        "#002366",
+        "#002366"
       ]
     },
     {
-      "tid": 27,
+      "tid": 28,
       "cid": 1,
       "did": 3,
       "region": "Vancouver",
@@ -446,12 +462,12 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654166434578472/1200px-Vancouver_Canucks_logo.png",
       "colors": [
         "#00205B",
-        "#00843D",
-        "#FFFFFF"
+        "#00205B",
+        "#00843D"
       ]
     },
     {
-      "tid": 28,
+      "tid": 29,
       "cid": 1,
       "did": 3,
       "region": "Vegas",
@@ -461,13 +477,13 @@
       "stadiumCapacity": 17356,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654240363773972/1200px-Vegas_Golden_Knights_logo.png",
       "colors": [
-        "#333F42",
-        "#B4975A",
-        "#000000"
+        "#231F20",
+        "#231F20",
+        "#333F42"
       ]
     },
     {
-      "tid": 29,
+      "tid": 30,
       "cid": 0,
       "did": 1,
       "region": "Washington",
@@ -478,12 +494,12 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654293030862888/1200px-Washington_Capitals.png",
       "colors": [
         "#FFFFFF",
-        "#C8102E",
+        "#FFFFFF",
         "#041E42"
       ]
     },
     {
-      "tid": 30,
+      "tid": 31,
       "cid": 1,
       "did": 2,
       "region": "Winnipeg",
@@ -494,8 +510,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654447532245002/1200px-Winnipeg_Jets_Logo_2011.png",
       "colors": [
         "#002D62",
-        "#1468A8",
-        "#FFFFFF"
+        "#002D62",
+        "#1468A8"
       ]
     }
   ],
@@ -537,6 +553,22 @@
           "name": "Pacific"
         }
       ]
+    },
+    {
+      "key": "minPayroll",
+      "value": 61000
+    },
+    {
+      "key": "salaryCap",
+      "value": 81000
+    },
+    {
+      "key": "maxContract",
+      "value": 9000
+    },
+    {
+      "key": "minContract",
+      "value": 700
     }
   ]
 }
