@@ -11,6 +11,7 @@
       "pop": 0.3,
       "stadiumCapacity": 17174,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810647820356026398/1200px-Anaheim_Ducks.png",
+      "jersey": "hockey3",
       "colors": [
         "#000000",
         "#000000",
@@ -27,6 +28,7 @@
       "pop": 4.8,
       "stadiumCapacity": 17125,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810647881123627038/1200px-Arizona_Coyotes.png",
+      "jersey": "hockey",
       "colors": [
         "#154734",
         "#000000",
@@ -43,6 +45,7 @@
       "pop": 7.3,
       "stadiumCapacity": 17850,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649655372283924/1200px-Boston_Bruins.png",
+      "jersey": "hockey",
       "colors": [
         "#000000",
         "#FFB81C",
@@ -59,9 +62,10 @@
       "pop": 1.1,
       "stadiumCapacity": 19070,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649719398334494/1200px-Buffalo_Sabres_Logo.png",
+      "jersey": "hockey3",
       "colors": [
-        "#FFFFFF",
-        "#002654",
+        "#003087",
+        "#003087",
         "#FCB514"
       ]
     },
@@ -75,10 +79,11 @@
       "pop": 1.3,
       "stadiumCapacity": 19289,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649768111243304/1200px-Calgary_Flames_logo.png",
+      "jersey": "hockey2",
       "colors": [
         "#C8102E",
-        "#C8102E",
-        "#F1BE48"
+        "#F1BE48",
+        "#C8102E"
       ]
     },
     {
@@ -91,9 +96,10 @@
       "pop": 1,
       "stadiumCapacity": 18680,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649820376334366/1200px-Carolina_Hurricanes.png",
+      "jersey": "hockey2",
       "colors": [
         "#CC0000",
-        "#CC0000",
+        "#000000",
         "#CC0000"
       ]
     },
@@ -107,9 +113,10 @@
       "pop": 9.1,
       "stadiumCapacity": 19717,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810649881978077244/1200px-Chicago_Blackhawks_logo.png",
+      "jersey": "hockey2",
       "colors": [
         "#CF0A2C",
-        "#000000",
+        "#FFFFFF",
         "#CF0A2C"
       ]
     },
@@ -123,6 +130,7 @@
       "pop": 2.7,
       "stadiumCapacity": 18007,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650022811140127/1024px-Colorado_Avalanche_logo.png",
+      "jersey": "hockey",
       "colors": [
         "#FFFFFF",
         "#6F263D",
@@ -139,10 +147,11 @@
       "pop": 0.7,
       "stadiumCapacity": 18144,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650134400073768/1200px-Columbus_Blue_Jackets_logo.png",
+      "jersey": "hockey3",
       "colors": [
         "#002654",
-        "#002654",
-        "#A4A9AD"
+        "#FFFFFF",
+        "#CE1126"
       ]
     },
     {
@@ -155,10 +164,11 @@
       "pop": 7.2,
       "stadiumCapacity": 18532,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650205598515230/1200px-Dallas_Stars_logo_28201329.png",
+      "jersey": "hockey2",
       "colors": [
         "#006847",
-        "#006847",
-        "#FFFFFF"
+        "#FFFFFF",
+        "#000000"
       ]
     },
     {
@@ -171,6 +181,7 @@
       "pop": 4.3,
       "stadiumCapacity": 19515,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650255959392306/1200px-Detroit_Red_Wings_logo.png",
+      "jersey": "hockey2",
       "colors": [
         "#CE1126",
         "#CE1126",
@@ -187,6 +198,7 @@
       "pop": 1.3,
       "stadiumCapacity": 18347,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650299144208434/1200px-Logo_Edmonton_Oilers.png",
+      "jersey": "hockey",
       "colors": [
         "#FF4C00",
         "#041E42",
@@ -203,10 +215,11 @@
       "pop": 5.6,
       "stadiumCapacity": 19250,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650356685602846/1200px-Florida_Panthers_2016_logo.png",
+      "jersey": "hockey4",
       "colors": [
         "#C8102E",
-        "#C8102E",
-        "#C8102E"
+        "#041E42",
+        "#B9975B"
       ]
     },
     {
@@ -220,10 +233,11 @@
       "strategy": "contending",
       "stadiumCapacity": 18230,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650402273230878/1200px-Los_Angeles_Kings_logo.png",
+      "jersey": "hockey3",
       "colors": [
         "#212121",
         "#212121",
-        "#FFFFFF"
+        "#A2AAAD"
       ]
     },
     {
@@ -236,9 +250,10 @@
       "pop": 1.6,
       "stadiumCapacity": 17954,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650455637098516/1200px-Minnesota_Wild.png",
+      "jersey": "hockey2",
       "colors": [
         "#154734",
-        "#154734",
+        "#DDCBA4",
         "#A6192E"
       ]
     },
@@ -252,9 +267,10 @@
       "pop": 4,
       "stadiumCapacity": 21302,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
+      "jersey": "hockey3",
       "colors": [
-        "#FFFFFF",
         "#AF1E2D",
+        "#FFFFFF",
         "#FFFFFF"
       ]
     },
@@ -268,10 +284,11 @@
       "pop": 1.9,
       "stadiumCapacity": 17113,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650566740672522/1200px-Nashville_Predators_Logo_28201129.png",
+      "jersey": "hockey2",
       "colors": [
-        "#FFFFFF",
         "#FFB81C",
-        "#030144"
+        "#030144",
+        "#FFB81C"
       ]
     },
     {
@@ -284,6 +301,7 @@
       "pop": 0.2,
       "stadiumCapacity": 16514,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650621739925505/1200px-New_Jersey_Devils_logo.png",
+      "jersey": "hockey",
       "colors": [
         "#CE1126",
         "#19171B",
@@ -300,9 +318,10 @@
       "pop": 1.3,
       "stadiumCapacity": 13917,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651376890675250/1200px-Logo_New_York_Islanders.png",
+      "jersey": "hockey2",
       "colors": [
         "#003087",
-        "#003087",
+        "#fc4c02",
         "#fc4c02"
       ]
     },
@@ -316,6 +335,7 @@
       "pop": 20.3,
       "stadiumCapacity": 18006,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png",
+      "jersey": "hockey2",
       "colors": [
         "#0038A8",
         "#0038A8",
@@ -332,9 +352,10 @@
       "pop": 0.9,
       "stadiumCapacity": 18652,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651677094838322/1200px-Ottawa_Senators_2020-2021_logo.png",
+      "jersey": "hockey2",
       "colors": [
-        "#FFFFFF",
-        "#FFFFFF",
+        "#000000",
+        "#C52032",
         "#C52032"
       ]
     },
@@ -348,9 +369,10 @@
       "pop": 6.1,
       "stadiumCapacity": 19500,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652527812804648/1200px-Philadelphia_Flyers.png",
+      "jersey": "hockey3",
       "colors": [
-        "#F74902",
         "#FFFFFF",
+        "#F74902",
         "#F74902"
       ]
     },
@@ -364,10 +386,11 @@
       "pop": 2.3,
       "stadiumCapacity": 18387,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652579050291200/1200px-Pittsburgh_Penguins_logo_28201629.png",
+      "jersey": "hockey2",
       "colors": [
         "#231F20",
-        "#231F20",
-        "#FCB514"
+        "#FCB514",
+        "#231F20"
       ]
     },
     {
@@ -380,9 +403,10 @@
       "pop": 1.1,
       "stadiumCapacity": 17562,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652638081187890/1200px-SanJoseSharksLogo.png",
+      "jersey": "hockey2",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
+        "#006D75",
         "#006D75"
       ]
     },
@@ -396,6 +420,7 @@
       "pop": 3.9,
       "stadiumCapacity": 17110,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654506894360586/220px-Seattle_Kraken_official_logo.png",
+      "jersey": "hockey",
       "colors": [
         "#001628",
         "#001628",
@@ -412,6 +437,7 @@
       "pop": 2.1,
       "stadiumCapacity": 18724,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810652697837568010/1200px-St.png",
+      "jersey": "hockey",
       "colors": [
         "#002F87",
         "#041E42",
@@ -428,9 +454,10 @@
       "pop": 3.1,
       "stadiumCapacity": 19092,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810653973542862858/image_1.png",
+      "jersey": "hockey2",
       "colors": [
         "#002868",
-        "#002868",
+        "#FFFFFF",
         "#FFFFFF"
       ]
     },
@@ -444,6 +471,7 @@
       "pop": 6.4,
       "stadiumCapacity": 18819,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png",
+      "jersey": "hockey2",
       "colors": [
         "#002366",
         "#002366",
@@ -460,6 +488,7 @@
       "pop": 2.2,
       "stadiumCapacity": 18910,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654166434578472/1200px-Vancouver_Canucks_logo.png",
+      "jersey": "hockey",
       "colors": [
         "#00205B",
         "#00205B",
@@ -476,10 +505,11 @@
       "pop": 2.2,
       "stadiumCapacity": 17356,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654240363773972/1200px-Vegas_Golden_Knights_logo.png",
+      "jersey": "hockey2",
       "colors": [
         "#231F20",
         "#231F20",
-        "#333F42"
+        "#231F20"
       ]
     },
     {
@@ -492,10 +522,11 @@
       "pop": 6.1,
       "stadiumCapacity": 18506,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654293030862888/1200px-Washington_Capitals.png",
+      "jersey": "hockey4",
       "colors": [
         "#FFFFFF",
-        "#FFFFFF",
-        "#041E42"
+        "#041E42",
+        "#FFFFFF"
       ]
     },
     {
@@ -508,10 +539,11 @@
       "pop": 0.7,
       "stadiumCapacity": 15321,
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810654447532245002/1200px-Winnipeg_Jets_Logo_2011.png",
+      "jersey": "hockey2",
       "colors": [
         "#002D62",
-        "#002D62",
-        "#1468A8"
+        "#1468A8",
+        "#FFFFFF"
       ]
     }
   ],
